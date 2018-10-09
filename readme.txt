@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 add merge
 delete merge
 push merge
+pull merge
